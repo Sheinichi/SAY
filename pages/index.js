@@ -44,7 +44,9 @@ export default function Home({articles}) {
           <h3>{article.title}</h3> 
 
       ))} */}
-      <ArticleList articles={articles}/>
+
+      
+      {/* <ArticleList articles={articles}/> */}
     </div>
 
   )
