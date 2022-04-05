@@ -9,7 +9,6 @@ const Layout = ({children}) => {
         <Nav/>
         {/* Single parent element*/}
         <div className={styles.container}>
-            <h1> hwello </h1>
             <main className={styles.main}>
                 <Header/>
                 {children}
