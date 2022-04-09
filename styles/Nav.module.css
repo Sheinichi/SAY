@@ -2,9 +2,9 @@
     height: 50px;
     display: flex;
     padding: 10px;
-    width: auto;
+    width: 100%;
     background-color: white;
-    color: gold;
+    color: #424242;
     align-items: center;
     justify-content: flex-start;
     position: fixed;
