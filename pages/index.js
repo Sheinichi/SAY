@@ -87,15 +87,16 @@ Mi sit amet mauris commodo. Mauris nunc congue nisi vitae suscipit tellus. Ut fa
 }
 
 // 3rd party API JSon placeholder 
-export const getStaticProps = async () => { 
-  const res = await fetch ('https://jsonplaceholder.typicode.com/posts?_limit=6')
-  const articles = await res.json()
+//NO INTERNET, BALIK MO KAPAG MERON NA INTERNET
+// export const getStaticProps = async () => { 
+//   const res = await fetch ('https://jsonplaceholder.typicode.com/posts?_limit=6')
+//   const articles = await res.json()
 
-  return{
-    props:{
-      articles
-   }
-  }
-}
+//   return{
+//     props:{
+//       articles
+//    }
+//   }
+// }
 
 

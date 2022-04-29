@@ -21,6 +21,15 @@
     margin: 5px 15px;
 }
 .nav li{
-    padding: 10px;
+    
+    padding-right: 15px;
+    padding-left: 15px;
+    /* border: solid gray 1px; */
+    margin-left: 5px;
+    margin-right: 5px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: rgb(241, 241, 241);
+    box-shadow: 0 5px 10px rgba(0,0,0,0.20);
 }
   

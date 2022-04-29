@@ -21,3 +21,7 @@ const Nav = () => {
 }
 
 export default Nav
+
+
+//NOTES: 
+//4/29/22 1022 - Add symbols for the nav buttons or change all the text to symbols instead. Ask groupmates for confirmation.
